@@ -1,0 +1,19 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha *.test.js",
+    "test01": "npx mocha 01_artists_from_year.test.js",
+    "test02": "npx mocha 02_artist_names.test.js",
+    "test03": "npx mocha 03_filter.test.js",
+    "test04": "npx mocha 04_map.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
