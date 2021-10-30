@@ -1,6 +1,6 @@
 
 function map(array, callback) {
-  // Put your solution here
+  
 }
 module.exports = map
 
